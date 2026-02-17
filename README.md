@@ -1,2 +1,2 @@
-# Internship-learning-journal
-My internship learning journal (module-wise &amp; chapter-wise)
+This repository documents my weekly learning progress during my internship.
+ Week-02: Deployment tools and workflows
