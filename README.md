@@ -1,92 +1,43 @@
+# Internship Learning Journal — Tools in Data Science (TDS)
+
 This repository documents my weekly learning progress during my internship.
- Week-02: Deployment tools and workflows
-# Module 2 — Deployment Techniques (TDS Internship)
-
-## Overview
-
-This module introduces how data science and AI applications are shared with others.
-Instead of running code locally, we learn how to deploy apps, create APIs, automate workflows, and manage environments.
-
-The focus is on making projects **interactive, reproducible, and accessible online**.
+The content is organized module-wise and chapter-wise to track concepts, practical work, and deployment workflows.
 
 ---
 
-## Topics Covered
+## 📚 Learning Structure
 
-### Images: Compression
+### Week-01 — Development Tools
 
-Image compression reduces file size while preserving visual quality.
-It improves application performance by decreasing loading time and bandwidth usage during deployment.
+Covers environment setup, Git, VS Code, virtual environments, APIs basics, and supporting formats like JSON and Markdown.
 
----
-
-### REST APIs
-
-REST APIs allow different systems to communicate over HTTP using structured endpoints.
-They convert scripts and models into reusable services that can be accessed by dashboards, apps, and other programs.
+📁 Folder: `Week-01/Module-1_Tools-in-Data-Science`
 
 ---
 
-### CORS
+### Week-02 — Deployment Techniques
 
-CORS controls which origins can access an API from a browser.
-It is a security mechanism required when frontend and backend run on different domains or ports.
+Focuses on deploying data science applications using REST APIs, FastAPI, Docker, GitHub Actions, authentication, and hosting platforms.
 
----
-
-### Tunneling: ngrok
-
-ngrok creates a temporary public URL for a locally running application.
-It is useful for demos, testing integrations, and sharing work before full deployment.
+📁 Folder: `Week-02/Module-2_Deployment-Tools`
 
 ---
 
-### Containers: Docker, Podman
+## 🎯 Objectives
 
-Containers package applications with all dependencies to ensure reproducibility across environments.
-Docker and Podman enable portable deployment of ML services.
-
----
-
-### CI/CD: GitHub Actions
-
-CI/CD automates integration, testing, building, and deployment workflows.
-GitHub Actions allows projects to run tasks automatically when code changes.
+* Learn modern data science workflows
+* Convert notebooks into deployable applications
+* Understand APIs, containers, and automation
+* Build reproducible and shareable AI projects
 
 ---
 
-### DevContainers: GitHub Codespaces
+## 🚀 Tools & Technologies
 
-DevContainers define consistent development environments using containers.
-GitHub Codespaces builds these environments in the cloud for collaborative development.
-
----
-
-### Web Framework: FastAPI
-
-FastAPI is used to expose models and data pipelines as APIs.
-It acts as the service layer connecting ML logic with applications.
+Python • Git • GitHub • FastAPI • Docker • Hugging Face Spaces • GitHub Actions • Google Auth
 
 ---
 
-### Authentication: Google Auth
+## 📌 Note
 
-Authentication ensures only authorized users can access deployed applications.
-Google Auth simplifies login by delegating identity verification to Google.
-
----
-
-## Key Learnings
-
-* Deployment is essential for sharing data science work
-* APIs convert models into services
-* Containers ensure reproducible environments
-* Automation improves reliability
-* Authentication secures applications
-
----
-
-## Conclusion
-
-This module highlights the transition from experimentation to production.
-By combining APIs, containers, automation, and hosting platforms, data science projects become complete software systems.
+Detailed notes for each topic are available inside the respective week folders.
