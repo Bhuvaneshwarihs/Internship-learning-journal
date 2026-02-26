@@ -1,6 +1,6 @@
 
  Week-02: Deployment tools and workflows
-# Module 2 — Deployment Tools and their workflows (TDS Internship)
+# Module 2 — Deployment Tools and Techniques 
 
 ## Overview
 
