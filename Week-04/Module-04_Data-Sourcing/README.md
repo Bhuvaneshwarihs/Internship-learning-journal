@@ -73,7 +73,7 @@ This module focuses on different techniques for collecting data from online sour
 - APIs provide reliable and organized access to data sources.
 - Automation tools like GitHub Actions enable scheduled data collection.
 
----
+-----
 
 # Conclusion
 This module highlights the importance of data sourcing for data science and AI projects. By combining web scraping, APIs, and automation tools, developers can build reliable pipelines for collecting and maintaining datasets.
