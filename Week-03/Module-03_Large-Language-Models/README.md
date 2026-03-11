@@ -69,7 +69,7 @@ This module focuses on understanding how **Large Language Models (LLMs)** work a
 - Retrieval systems improve factual accuracy of LLM responses.  
 - Prompt engineering helps control model behavior and output.
 
----
+-----
 
 # Conclusion
 This module highlights how modern AI systems are built using **Large Language Models, embeddings, and retrieval systems**. By integrating vector databases, prompt engineering, and external tools, developers can create intelligent AI applications that provide context-aware and accurate responses.
