@@ -1,0 +1,501 @@
+id,product_name,description,category,image_path,brand,color,size
+1,laptops_1,asus gaming laptop,laptops,dataset/images/1.jpg,Apple,White,Small
+2,laptops_2,a black desk with a laptop and a mouse,laptops,dataset/images/2.jpg,Dell,Black,Medium
+3,laptops_3,a table with two laptops,laptops,dataset/images/3.jpg,Apple,Silver,Medium
+4,laptops_4,a laptop on a table,laptops,dataset/images/4.jpg,Lenovo,Blue,Medium
+5,laptops_5,asus x1 laptop with intel intel processor,laptops,dataset/images/5.jpg,Apple,Blue,Medium
+6,laptops_6,a large selection of laptops,laptops,dataset/images/6.jpg,Asus,Red,Small
+7,laptops_7,a laptop with windows on the screen,laptops,dataset/images/7.jpg,Asus,White,Medium
+8,laptops_8,a laptop with the words which one is the best?,laptops,dataset/images/8.jpg,Lenovo,Gold,Medium
+9,laptops_9,many different laptops on a pink background,laptops,dataset/images/9.jpg,Dell,Gold,Large
+10,laptops_10,a laptop with a fire on the screen,laptops,dataset/images/10.jpg,Dell,Blue,Large
+11,laptops_11,a laptop on a wooden table,laptops,dataset/images/11.jpg,Dell,Blue,Medium
+12,laptops_12,a black table,laptops,dataset/images/12.jpg,HP,White,Large
+13,laptops_13,a laptop with a fire on the screen,laptops,dataset/images/13.jpg,Asus,Blue,Medium
+14,laptops_14,a laptop computer,laptops,dataset/images/14.jpg,Asus,Black,Medium
+15,laptops_15,a white laptop on a table,laptops,dataset/images/15.jpg,Asus,Blue,Medium
+16,laptops_16,three laptops on a white pedestal,laptops,dataset/images/16.jpg,Lenovo,Silver,Large
+17,laptops_17,acer core core core m5 - core core i5 - 5200 - 2gb - 32,laptops,dataset/images/17.jpg,HP,Black,Large
+18,laptops_18,a gaming room with a computer and a monitor,laptops,dataset/images/18.jpg,Lenovo,Black,Small
+19,laptops_19,the new macbook air,laptops,dataset/images/19.jpg,Dell,Blue,Large
+20,laptops_20,asus asus - x7 - 15 gaming laptop,laptops,dataset/images/20.jpg,Apple,Silver,Small
+21,laptops_21,the leap of singularity,laptops,dataset/images/21.jpg,Asus,Blue,Small
+22,laptops_22,a laptop with a keyboard and a mouse,laptops,dataset/images/22.jpg,Asus,Gold,Small
+23,laptops_23,a laptop on a table,laptops,dataset/images/23.jpg,HP,Red,Small
+24,laptops_24,hp pavilion 15 - c077t - i5 - 6200mh - 8gb,laptops,dataset/images/24.jpg,Dell,Red,Large
+25,laptops_25,hp envy envy envy envy envy envy envy envy envy envy envy envy envy envy envy envy envy envy envy,laptops,dataset/images/25.jpg,Lenovo,Gold,Small
+26,laptops_26,asus gaming laptop,laptops,dataset/images/26.jpg,Dell,Silver,Large
+27,laptops_27,a black and green background,laptops,dataset/images/27.jpg,Dell,Silver,Large
+28,laptops_28,a laptop computer,laptops,dataset/images/28.jpg,HP,Red,Medium
+29,laptops_29,a row of laptops,laptops,dataset/images/29.jpg,Apple,Blue,Small
+30,laptops_30,dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell,laptops,dataset/images/30.jpg,Dell,Black,Medium
+31,laptops_31,a laptop with a colorful background,laptops,dataset/images/31.jpg,Lenovo,Black,Small
+32,laptops_32,asus x7 laptop review,laptops,dataset/images/32.jpg,HP,Red,Small
+33,laptops_33,the asus laptop is on a wooden table,laptops,dataset/images/33.jpg,HP,Black,Large
+34,laptops_34,a laptop on a table with a person sitting on the floor,laptops,dataset/images/34.jpg,Asus,Gold,Small
+35,laptops_35,asus notebook 15,laptops,dataset/images/35.jpg,Dell,Blue,Small
+36,laptops_36,asus gaming laptop asus gaming laptop asus gaming laptop asus gaming laptop asus gaming laptop,laptops,dataset/images/36.jpg,Asus,Blue,Small
+37,laptops_37,a laptop with a screen and keyboard,laptops,dataset/images/37.jpg,HP,Blue,Small
+38,laptops_38,asus gaming laptops,laptops,dataset/images/38.jpg,Dell,Gold,Medium
+39,laptops_39,hp elitebook x2 - 15 6 - inch laptop,laptops,dataset/images/39.jpg,Asus,Silver,Large
+40,laptops_40,a pile of laptops sitting on top of each other laptops,laptops,dataset/images/40.jpg,Asus,White,Small
+41,laptops_41,a laptop with a alien logo on the screen,laptops,dataset/images/41.jpg,Apple,Blue,Large
+42,laptops_42,hp envy envy 15 - c077t - i5 - 8250u 8gb ram,laptops,dataset/images/42.jpg,Lenovo,Red,Medium
+43,laptops_43,the len len len len len len len len len len len len len len len len len len len,laptops,dataset/images/43.jpg,Apple,Red,Large
+44,laptops_44,asus asus - x10 - x1 - 15 6 - inch - intel - core -,laptops,dataset/images/44.jpg,Dell,Blue,Large
+45,laptops_45,hp pavilion 15 - c000n - i5 - 8250u - 4gb ram 16,laptops,dataset/images/45.jpg,Dell,Silver,Small
+46,laptops_46,hp pavilion 15 - c300n - i5 - 6200mh - i5 -,laptops,dataset/images/46.jpg,Apple,Silver,Large
+47,laptops_47,a laptop with a keyboard and mouse,laptops,dataset/images/47.jpg,HP,Silver,Small
+48,laptops_48,a laptop with a blue cover,laptops,dataset/images/48.jpg,HP,Blue,Medium
+49,laptops_49,a laptop on a table,laptops,dataset/images/49.jpg,Asus,White,Large
+50,laptops_50,the new macbook is coming,laptops,dataset/images/50.jpg,Dell,Gold,Medium
+51,laptops_51,a black background,laptops,dataset/images/51.jpg,Asus,Black,Large
+52,laptops_52,hp envy envy envy laptop,laptops,dataset/images/52.jpg,Dell,Blue,Medium
+53,laptops_53,a laptop computer,laptops,dataset/images/53.jpg,Dell,White,Medium
+54,laptops_54,acer core core core core core core core core core core core core core core core core core core,laptops,dataset/images/54.jpg,Dell,Gold,Small
+55,laptops_55,a laptop with a screen on a white surface,laptops,dataset/images/55.jpg,Lenovo,Gold,Medium
+56,laptops_56,hp pavilion 15 - c077t - i5 - 8250u - 8gb ram,laptops,dataset/images/56.jpg,Lenovo,Blue,Small
+57,laptops_57,hp envy envy 15 - c077t - i5 - 8250u 8gb ram,laptops,dataset/images/57.jpg,Apple,Red,Medium
+58,laptops_58,a laptop and a laptop computer,laptops,dataset/images/58.jpg,Dell,White,Medium
+59,laptops_59,a laptop on a white desk,laptops,dataset/images/59.jpg,HP,Blue,Small
+60,laptops_60,a laptop with a pink background,laptops,dataset/images/60.jpg,Apple,Gold,Large
+61,laptops_61,hp pavilion 15 - c0000n - i5 - 8250u - 8gb ram -,laptops,dataset/images/61.jpg,Lenovo,Blue,Medium
+62,laptops_62,a laptop with the word ' 10 ' on it,laptops,dataset/images/62.jpg,Dell,Blue,Medium
+63,laptops_63,a laptop with a red cover and a white background,laptops,dataset/images/63.jpg,Dell,Red,Small
+64,laptops_64,a laptop with windows on the screen,laptops,dataset/images/64.jpg,HP,Gold,Small
+65,laptops_65,asus asus asus asus asus asus asus asus asus asus,laptops,dataset/images/65.jpg,HP,Blue,Large
+66,laptops_66,dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell,laptops,dataset/images/66.jpg,Lenovo,Gold,Small
+67,laptops_67,hp envy envy 15 - c005t - i5 - 8250u - 8gb,laptops,dataset/images/67.jpg,Asus,Silver,Medium
+68,laptops_68,asus asus - x71 - s1 - 15 6 - inch - intel - core,laptops,dataset/images/68.jpg,Dell,White,Large
+69,laptops_69,dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell dell,laptops,dataset/images/69.jpg,Apple,Silver,Small
+70,laptops_70,a group of laptops,laptops,dataset/images/70.jpg,Lenovo,Black,Large
+71,watches_71,the new watches,watches,dataset/images/71.jpg,Rolex,Blue,Large
+72,watches_72,a watch on a table with a reflection,watches,dataset/images/72.jpg,Titan,Blue,Small
+73,watches_73,three watches with different styles,watches,dataset/images/73.jpg,Casio,White,Medium
+74,watches_74,roleking roleking roleking roleking roleking roleking roleking roleking roleking roleking,watches,dataset/images/74.jpg,Titan,Gold,Small
+75,watches_75,best smart watches under $ 100,watches,dataset/images/75.jpg,Rolex,White,Large
+76,watches_76,many watches are stacked together,watches,dataset/images/76.jpg,Rolex,Blue,Medium
+77,watches_77,roleking roleking roleking roleking roleking roleking roleking roleking roleking roleking,watches,dataset/images/77.jpg,Fossil,Gold,Small
+78,watches_78,a couple of watches on display,watches,dataset/images/78.jpg,Apple,Black,Large
+79,watches_79,a watch with a black dial and a green face,watches,dataset/images/79.jpg,Titan,Silver,Medium
+80,watches_80,a watch with blue leather strap,watches,dataset/images/80.jpg,Rolex,White,Small
+81,watches_81,three watches on display,watches,dataset/images/81.jpg,Apple,Gold,Large
+82,watches_82,a row of watches on a shelf,watches,dataset/images/82.jpg,Casio,Gold,Small
+83,watches_83,a row of watches,watches,dataset/images/83.jpg,Titan,Gold,Medium
+84,watches_84,the new watches from the new collection,watches,dataset/images/84.jpg,Casio,Black,Small
+85,watches_85,a watch on a white stand,watches,dataset/images/85.jpg,Rolex,Red,Large
+86,watches_86,a gold role watch on a wooden table - stock image,watches,dataset/images/86.jpg,Rolex,Blue,Small
+87,watches_87,a watch on a black surface,watches,dataset/images/87.jpg,Fossil,Gold,Small
+88,watches_88,a watch sitting on a rock in the woods,watches,dataset/images/88.jpg,Apple,Blue,Large
+89,watches_89,a watch on a rock,watches,dataset/images/89.jpg,Apple,Silver,Large
+90,watches_90,a watch with blue dial,watches,dataset/images/90.jpg,Apple,Red,Large
+91,watches_91,the watch is on a black surface,watches,dataset/images/91.jpg,Titan,Silver,Large
+92,watches_92,a woman wearing a watch,watches,dataset/images/92.jpg,Rolex,Red,Medium
+93,watches_93,a watch with gears on it,watches,dataset/images/93.jpg,Apple,Gold,Medium
+94,watches_94,apple watch series 5 gps + cellular + cellular + cellular + cellular + cellular + cellular + cellular +,watches,dataset/images/94.jpg,Titan,Blue,Large
+95,watches_95,a watch on a black stand,watches,dataset/images/95.jpg,Rolex,White,Small
+96,watches_96,casio digital watch,watches,dataset/images/96.jpg,Titan,Blue,Small
+97,watches_97,the pyramid of wealth,watches,dataset/images/97.jpg,Fossil,Blue,Medium
+98,watches_98,a black and white watch with a gold face,watches,dataset/images/98.jpg,Casio,Blue,Medium
+99,watches_99,a group of three watches,watches,dataset/images/99.jpg,Casio,Black,Small
+100,watches_100,a watch on a black surface,watches,dataset/images/100.jpg,Fossil,Gold,Medium
+101,watches_101,a watch on a table in a store - stock image,watches,dataset/images/101.jpg,Titan,Black,Medium
+102,watches_102,casio casio casio casio casio casio casio casio casio casio,watches,dataset/images/102.jpg,Apple,Red,Small
+103,watches_103,a green watch on a rock,watches,dataset/images/103.jpg,Rolex,White,Small
+104,watches_104,a row of watches,watches,dataset/images/104.jpg,Titan,White,Small
+105,watches_105,a display of watches,watches,dataset/images/105.jpg,Rolex,White,Small
+106,watches_106,a watch on a black background,watches,dataset/images/106.jpg,Rolex,White,Small
+107,watches_107,a watch with a blue face and a black strap,watches,dataset/images/107.jpg,Fossil,Red,Small
+108,watches_108,a black box with a bunch of watches inside,watches,dataset/images/108.jpg,Apple,Red,Large
+109,watches_109,a watch with a black dial and a silver bracelet,watches,dataset/images/109.jpg,Titan,Silver,Medium
+110,watches_110,the two watches are made from rose gold and black leather,watches,dataset/images/110.jpg,Titan,Blue,Medium
+111,watches_111,a row of watches on display,watches,dataset/images/111.jpg,Casio,White,Large
+112,watches_112,a display of watches,watches,dataset/images/112.jpg,Casio,Red,Medium
+113,watches_113,a watch on a stand in a store,watches,dataset/images/113.jpg,Rolex,Red,Medium
+114,watches_114,a row of watches,watches,dataset/images/114.jpg,Titan,Black,Medium
+115,watches_115,a row of watches,watches,dataset/images/115.jpg,Titan,Red,Small
+116,watches_116,a watch sitting on top of a table,watches,dataset/images/116.jpg,Fossil,Red,Small
+117,watches_117,the new hua hua hua hua hua hua hua hua hua hua hua hua hua hua hua hua hua hua,watches,dataset/images/117.jpg,Rolex,Red,Large
+118,watches_118,the blue dial of the watch,watches,dataset/images/118.jpg,Rolex,White,Medium
+119,watches_119,roleking roleking roleking roleking roleking roleking roleking roleking roleking roleking,watches,dataset/images/119.jpg,Casio,White,Large
+120,watches_120,three watches on a black and white background,watches,dataset/images/120.jpg,Casio,White,Medium
+121,watches_121,the longinese watch with blue dial,watches,dataset/images/121.jpg,Casio,White,Medium
+122,watches_122,a gold watch with diamonds on the dial,watches,dataset/images/122.jpg,Casio,Blue,Medium
+123,watches_123,rolex watches,watches,dataset/images/123.jpg,Fossil,Silver,Small
+124,watches_124,two watches on display,watches,dataset/images/124.jpg,Casio,Blue,Large
+125,watches_125,a black and gold watch,watches,dataset/images/125.jpg,Casio,White,Small
+126,watches_126,a collection of watches,watches,dataset/images/126.jpg,Casio,White,Medium
+127,watches_127,a couple of watches sitting on a ledge,watches,dataset/images/127.jpg,Apple,White,Medium
+128,watches_128,apple watch series 4 gps gps tracker,watches,dataset/images/128.jpg,Apple,White,Small
+129,watches_129,the watch is made from a black leather strap,watches,dataset/images/129.jpg,Apple,Blue,Large
+130,watches_130,a silver watch with a blue face,watches,dataset/images/130.jpg,Titan,Black,Large
+131,watches_131,a watch with a black bracelet,watches,dataset/images/131.jpg,Apple,White,Large
+132,watches_132,a watch with diamonds and sapphires,watches,dataset/images/132.jpg,Apple,Blue,Medium
+133,watches_133,a watch on a table,watches,dataset/images/133.jpg,Fossil,Silver,Small
+134,watches_134,a watch on a table with a blue background,watches,dataset/images/134.jpg,Casio,Blue,Medium
+135,watches_135,titan watch with black dial and rose gold tone,watches,dataset/images/135.jpg,Apple,Black,Medium
+136,watches_136,a group of watches,watches,dataset/images/136.jpg,Fossil,Black,Medium
+137,watches_137,a brown watch with a black dial,watches,dataset/images/137.jpg,Casio,Gold,Small
+138,watches_138,a man wearing a watch on his wrist,watches,dataset/images/138.jpg,Titan,Silver,Medium
+139,watches_139,a watch with a brown leather strap,watches,dataset/images/139.jpg,Fossil,Black,Large
+140,watches_140,apple watch series 3,watches,dataset/images/140.jpg,Rolex,Silver,Large
+141,headphones_141,jbl jbl jbl jbl jbl jbl jbl jbl jbl jbl,headphones,dataset/images/141.jpg,Sony,Red,Large
+142,headphones_142,the headphones are red and black,headphones,dataset/images/142.jpg,Apple,White,Small
+143,headphones_143,bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/143.jpg,Boat,Blue,Large
+144,headphones_144,bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/144.jpg,Apple,Silver,Large
+145,headphones_145,the beats on ear headphones,headphones,dataset/images/145.jpg,Boat,Black,Small
+146,headphones_146,jbl jbl jbl jbl jbl jbl jbl jbl jbl jbl,headphones,dataset/images/146.jpg,Apple,Gold,Medium
+147,headphones_147,jbl jbl jbl jbl jbl jbl jbl jbl jbl jbl,headphones,dataset/images/147.jpg,Apple,White,Large
+148,headphones_148,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/148.jpg,JBL,Black,Small
+149,headphones_149,the headphones are available in various colors,headphones,dataset/images/149.jpg,Bose,Red,Medium
+150,headphones_150,the jbl wireless headphones are available in black,headphones,dataset/images/150.jpg,Boat,Red,Large
+151,headphones_151,a product image of the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/151.jpg,Apple,Black,Small
+152,headphones_152,bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/152.jpg,Bose,Red,Large
+153,headphones_153,the sony headphones are designed to be in a variety of colors,headphones,dataset/images/153.jpg,Sony,White,Medium
+154,headphones_154,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/154.jpg,Bose,Gold,Small
+155,headphones_155,beats on - ear wireless headphones,headphones,dataset/images/155.jpg,Sony,Black,Medium
+156,headphones_156,headphones on a table,headphones,dataset/images/156.jpg,Bose,Silver,Small
+157,headphones_157,a pair of headphones,headphones,dataset/images/157.jpg,Apple,Red,Medium
+158,headphones_158,a pair of headphones on a brown background,headphones,dataset/images/158.jpg,Boat,White,Medium
+159,headphones_159,a pair of headphones with a black background,headphones,dataset/images/159.jpg,Boat,Silver,Small
+160,headphones_160,a pair of headphones on a table,headphones,dataset/images/160.jpg,Sony,Gold,Large
+161,headphones_161,a woman wearing headphones,headphones,dataset/images/161.jpg,Apple,Silver,Medium
+162,headphones_162,a product image of the hp wireless headset,headphones,dataset/images/162.jpg,Apple,Blue,Large
+163,headphones_163,beats on ear headphones red,headphones,dataset/images/163.jpg,Bose,Black,Small
+164,headphones_164,the beats on ear headphones are designed to be the same,headphones,dataset/images/164.jpg,Sony,Gold,Large
+165,headphones_165,skull headphones with mic,headphones,dataset/images/165.jpg,Apple,Gold,Medium
+166,headphones_166,the headphones are black and have a black plastic case,headphones,dataset/images/166.jpg,JBL,Black,Small
+167,headphones_167,headphones on a green background,headphones,dataset/images/167.jpg,Boat,Black,Large
+168,headphones_168,the sony headphones are shown in red and blue,headphones,dataset/images/168.jpg,Bose,Red,Medium
+169,headphones_169,headphones with a pink and blue background,headphones,dataset/images/169.jpg,Apple,White,Medium
+170,headphones_170,the new headphones from the new line of headphones,headphones,dataset/images/170.jpg,Apple,Silver,Large
+171,headphones_171,the jbl wireless headphones,headphones,dataset/images/171.jpg,Apple,Black,Small
+172,headphones_172,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/172.jpg,Bose,Red,Small
+173,headphones_173,a pair of bluetooth wireless headphones,headphones,dataset/images/173.jpg,Sony,White,Small
+174,headphones_174,a boy wearing a blue headphone,headphones,dataset/images/174.jpg,Sony,Silver,Small
+175,headphones_175,the beats on - ear headphones are available in peach,headphones,dataset/images/175.jpg,JBL,White,Medium
+176,headphones_176,a pair of headphones hanging on a wall,headphones,dataset/images/176.jpg,Apple,Gold,Small
+177,headphones_177,senic g4 headphones - brown,headphones,dataset/images/177.jpg,JBL,Black,Small
+178,headphones_178,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/178.jpg,Bose,Blue,Small
+179,headphones_179,headphones on a table,headphones,dataset/images/179.jpg,Sony,White,Small
+180,headphones_180,headphones on a blue background,headphones,dataset/images/180.jpg,Boat,Black,Small
+181,headphones_181,the sony noise noise noise noise noise noise noise noise noise noise noise noise noise noise noise noise noise noise,headphones,dataset/images/181.jpg,Boat,White,Medium
+182,headphones_182,the best wireless headphones for 2020,headphones,dataset/images/182.jpg,Boat,White,Small
+183,headphones_183,a group of headphones,headphones,dataset/images/183.jpg,Bose,White,Medium
+184,headphones_184,the headphones are available in different colors,headphones,dataset/images/184.jpg,JBL,Red,Small
+185,headphones_185,a pair of headphones,headphones,dataset/images/185.jpg,Bose,Black,Large
+186,headphones_186,jbl jbl jbl jbl jbl jbl jbl jbl jbl jbl,headphones,dataset/images/186.jpg,JBL,Gold,Medium
+187,headphones_187,white headphones on a table,headphones,dataset/images/187.jpg,JBL,Gold,Large
+188,headphones_188,the bluetooth bluetooth bluetooth bluetooth bluetooth bluetooth bluetooth bluetooth bluetooth blue,headphones,dataset/images/188.jpg,Boat,White,Small
+189,headphones_189,a girl wearing headphones and looking at a laptop,headphones,dataset/images/189.jpg,Boat,White,Small
+190,headphones_190,the sony headphones are shown in black,headphones,dataset/images/190.jpg,Boat,Silver,Small
+191,headphones_191,a pair of headphones with a microphone,headphones,dataset/images/191.jpg,Sony,Black,Small
+192,headphones_192,headphones on a white background with a white background - stock image,headphones,dataset/images/192.jpg,JBL,Black,Large
+193,headphones_193,the turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle turtle,headphones,dataset/images/193.jpg,JBL,White,Large
+194,headphones_194,the bluetooth bluetooth bluetooth bluetooth bluetooth bluetooth bluetooth bluetooth bluetooth blue,headphones,dataset/images/194.jpg,Sony,Blue,Small
+195,headphones_195,headphones flyer template,headphones,dataset/images/195.jpg,Bose,Blue,Medium
+196,headphones_196,a pair of headphones with a microphone,headphones,dataset/images/196.jpg,JBL,Silver,Small
+197,headphones_197,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/197.jpg,Boat,White,Small
+198,headphones_198,the headphones are made from white leather,headphones,dataset/images/198.jpg,JBL,Black,Large
+199,headphones_199,the headphones are white and brown,headphones,dataset/images/199.jpg,Sony,White,Small
+200,headphones_200,a woman with long red hair,headphones,dataset/images/200.jpg,JBL,Red,Large
+201,headphones_201,headphones sale flyer template,headphones,dataset/images/201.jpg,Sony,Gold,Medium
+202,headphones_202,senic bluetooth wireless headphones,headphones,dataset/images/202.jpg,JBL,Silver,Medium
+203,headphones_203,beats by beats by beats by beats by beats by beats by beats by beats by beats by beats by,headphones,dataset/images/203.jpg,Apple,Gold,Medium
+204,headphones_204,bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,headphones,dataset/images/204.jpg,Sony,Silver,Large
+205,headphones_205,the best wireless headphones for 2020,headphones,dataset/images/205.jpg,Sony,Blue,Large
+206,headphones_206,the beats on ear headphones,headphones,dataset/images/206.jpg,Bose,Black,Large
+207,headphones_207,sony wh - xb500 wireless noise cancel noise cancel noise cancel noise cancel noise cancel noise cancel,headphones,dataset/images/207.jpg,Apple,Gold,Large
+208,headphones_208,the jbl bluetooth wireless headphones,headphones,dataset/images/208.jpg,Apple,Silver,Large
+209,headphones_209,the beatsport true true true true true true true true true true true true true true true true true,headphones,dataset/images/209.jpg,Bose,Gold,Small
+210,headphones_210,the jbl headset is a great headphone for the whole,headphones,dataset/images/210.jpg,Sony,Red,Small
+211,earbuds_211,apple airpods with charging case,earbuds,dataset/images/211.jpg,Sony,White,Medium
+212,earbuds_212,the airpods is a wireless device that can be used for the use of the airpods,earbuds,dataset/images/212.jpg,Samsung,White,Small
+213,earbuds_213,the beatsport true true true true true true true true true true true true true true true true true,earbuds,dataset/images/213.jpg,Apple,Red,Large
+214,earbuds_214,the wireless earphones are designed to be in the shape of a headset,earbuds,dataset/images/214.jpg,Sony,Black,Large
+215,earbuds_215,the jbl airpods is a wireless earphone that can be used for a variety of functions,earbuds,dataset/images/215.jpg,Boat,Gold,Large
+216,earbuds_216,the best wireless earphones for 2019,earbuds,dataset/images/216.jpg,Noise,Gold,Large
+217,earbuds_217,the bluetooth wireless earphones,earbuds,dataset/images/217.jpg,Samsung,Red,Large
+218,earbuds_218,the jbl earphones are designed to be in the shape of a pair of earphones,earbuds,dataset/images/218.jpg,Sony,Red,Small
+219,earbuds_219,bluetooth wireless earphones,earbuds,dataset/images/219.jpg,Samsung,Gold,Medium
+220,earbuds_220,bluetooth wireless earphones with charging case,earbuds,dataset/images/220.jpg,Boat,Blue,Large
+221,earbuds_221,the best wireless earphones for 2020,earbuds,dataset/images/221.jpg,Samsung,White,Large
+222,earbuds_222,the best wireless earphones for 2019,earbuds,dataset/images/222.jpg,Samsung,White,Small
+223,earbuds_223,bluetooth wireless earphones,earbuds,dataset/images/223.jpg,Samsung,White,Large
+224,earbuds_224,the best wireless earphones for 2019,earbuds,dataset/images/224.jpg,Boat,Black,Small
+225,earbuds_225,the apple airpods is a wireless device that can be used for charging your phone,earbuds,dataset/images/225.jpg,Boat,Black,Small
+226,earbuds_226,the apple airpods is a great accessory for your ear,earbuds,dataset/images/226.jpg,Boat,Red,Medium
+227,earbuds_227,anker airpods with a charging case,earbuds,dataset/images/227.jpg,Apple,White,Medium
+228,earbuds_228,a woman with a ponytail in a ponytail,earbuds,dataset/images/228.jpg,Sony,Blue,Small
+229,earbuds_229,the apple airpods is a great accessory for the apple airpods,earbuds,dataset/images/229.jpg,Apple,Red,Large
+230,earbuds_230,the best airpods for your ears,earbuds,dataset/images/230.jpg,Apple,Gold,Large
+231,earbuds_231,the best airpods for apple airpods,earbuds,dataset/images/231.jpg,Noise,Silver,Large
+232,earbuds_232,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,earbuds,dataset/images/232.jpg,Apple,Black,Small
+233,earbuds_233,the beatsport buds buds buds buds buds buds buds buds buds buds buds buds buds buds buds buds buds,earbuds,dataset/images/233.jpg,Samsung,Blue,Large
+234,earbuds_234,the jbl airpods is a great accessory for your ear,earbuds,dataset/images/234.jpg,Sony,Red,Small
+235,earbuds_235,a man wearing a hat and a pair of bluetooths,earbuds,dataset/images/235.jpg,Noise,White,Medium
+236,earbuds_236,apple airpods are the best airpods for your iphone,earbuds,dataset/images/236.jpg,Noise,Red,Large
+237,earbuds_237,the best wireless earphones for 2019,earbuds,dataset/images/237.jpg,Boat,White,Small
+238,earbuds_238,the jbl air true true true true true true true true true true true true true true true true,earbuds,dataset/images/238.jpg,Sony,Black,Large
+239,earbuds_239,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,earbuds,dataset/images/239.jpg,Noise,Blue,Large
+240,earbuds_240,the airpods is a wireless device that can be used for the use of the phone,earbuds,dataset/images/240.jpg,Samsung,Red,Small
+241,earbuds_241,a pair of earphones with red and white buttons,earbuds,dataset/images/241.jpg,Apple,Blue,Small
+242,earbuds_242,the airpods is a great accessory for your ear,earbuds,dataset/images/242.jpg,Sony,Red,Medium
+243,earbuds_243,the best wireless earphones for 2020,earbuds,dataset/images/243.jpg,Boat,Black,Small
+244,earbuds_244,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,earbuds,dataset/images/244.jpg,Sony,Silver,Large
+245,earbuds_245,a pair of white airpodss sitting on a bed,earbuds,dataset/images/245.jpg,Sony,Gold,Medium
+246,earbuds_246,a green background,earbuds,dataset/images/246.jpg,Boat,Blue,Medium
+247,earbuds_247,bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,earbuds,dataset/images/247.jpg,Sony,Silver,Medium
+248,earbuds_248,the apple airpods is a great accessory for your iphone,earbuds,dataset/images/248.jpg,Boat,Blue,Small
+249,earbuds_249,the ear buds are designed to look like ear buds,earbuds,dataset/images/249.jpg,Noise,Gold,Small
+250,earbuds_250,the best wireless earphones for 2019,earbuds,dataset/images/250.jpg,Boat,White,Small
+251,earbuds_251,the marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall marshall,earbuds,dataset/images/251.jpg,Noise,White,Medium
+252,earbuds_252,the best earphones for 2019,earbuds,dataset/images/252.jpg,Noise,Black,Small
+253,earbuds_253,the jbl airpods is a wireless earphone that can be used for a variety of functions,earbuds,dataset/images/253.jpg,Samsung,Gold,Medium
+254,earbuds_254,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,earbuds,dataset/images/254.jpg,Noise,Red,Medium
+255,earbuds_255,the best wireless earphones for 2020,earbuds,dataset/images/255.jpg,Apple,Red,Large
+256,earbuds_256,the apple earphones are white and have a white cord,earbuds,dataset/images/256.jpg,Noise,Red,Large
+257,earbuds_257,the beatsport pro wireless earphones,earbuds,dataset/images/257.jpg,Noise,Black,Medium
+258,earbuds_258,the apple airpods is a great accessory for the apple airpods,earbuds,dataset/images/258.jpg,Sony,Gold,Medium
+259,earbuds_259,a woman wearing a white shirt,earbuds,dataset/images/259.jpg,Noise,Silver,Small
+260,earbuds_260,the new airpods is designed to be in the air,earbuds,dataset/images/260.jpg,Noise,Black,Small
+261,earbuds_261,the apple airpods is a great accessory for your iphone,earbuds,dataset/images/261.jpg,Samsung,Red,Large
+262,earbuds_262,the airpods are designed to be in the air,earbuds,dataset/images/262.jpg,Noise,White,Large
+263,earbuds_263,the beatsport pro wireless bluetooth headphones,earbuds,dataset/images/263.jpg,Sony,White,Large
+264,earbuds_264,the top 10 best wireless earphones for 2020,earbuds,dataset/images/264.jpg,Boat,White,Medium
+265,earbuds_265,wireless earphones with blue background,earbuds,dataset/images/265.jpg,Samsung,Blue,Medium
+266,earbuds_266,the jbl - x in - ear headphones,earbuds,dataset/images/266.jpg,Sony,Black,Small
+267,earbuds_267,the jbl bluetooth wireless earphones,earbuds,dataset/images/267.jpg,Boat,Gold,Medium
+268,earbuds_268,the jbl bluetooth wireless earphones,earbuds,dataset/images/268.jpg,Noise,Blue,Medium
+269,earbuds_269,the bat earphones are designed to be in the shape of a headphone,earbuds,dataset/images/269.jpg,Sony,Gold,Small
+270,earbuds_270,the jbl air true true true true true true true true true true true true true true true true,earbuds,dataset/images/270.jpg,Samsung,Black,Large
+271,earbuds_271,a woman holding a cell phone with a number of different items,earbuds,dataset/images/271.jpg,Apple,Black,Medium
+272,earbuds_272,a man with a beard and earphones,earbuds,dataset/images/272.jpg,Noise,Blue,Large
+273,earbuds_273,jbl jbl - tws - tws - tws - tws - tws -,earbuds,dataset/images/273.jpg,Apple,Blue,Small
+274,earbuds_274,the bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose bose,earbuds,dataset/images/274.jpg,Apple,Black,Large
+275,earbuds_275,the earphones are white and have a white cable,earbuds,dataset/images/275.jpg,Samsung,Black,Large
+276,earbuds_276,beats on ear headphones red,earbuds,dataset/images/276.jpg,Noise,Silver,Medium
+277,earbuds_277,the apple airpods is a great accessory for your ear,earbuds,dataset/images/277.jpg,Noise,Gold,Large
+278,earbuds_278,new model earphones 10,earbuds,dataset/images/278.jpg,Boat,Red,Large
+279,earbuds_279,the jbl airpods is a wireless earphone that can be used for a variety of functions,earbuds,dataset/images/279.jpg,Noise,Gold,Small
+280,earbuds_280,the green airpods is a great accessory for your ear,earbuds,dataset/images/280.jpg,Boat,Red,Small
+281,shoes_281,a bunch of shoes on a blue background,shoes,dataset/images/281.jpg,Reebok,Black,Large
+282,shoes_282,nike air max 1,shoes,dataset/images/282.jpg,Adidas,White,Small
+283,shoes_283,nike react react react react react react react react react react react react react react react react react react react,shoes,dataset/images/283.jpg,Adidas,Silver,Small
+284,shoes_284,a pair of sneakers on a city street,shoes,dataset/images/284.jpg,Nike,Red,Large
+285,shoes_285,a man standing on the street with his feet in the air,shoes,dataset/images/285.jpg,Adidas,Gold,Large
+286,shoes_286,a poster with a chart of different shoes,shoes,dataset/images/286.jpg,Adidas,Silver,Small
+287,shoes_287,a pair of yellow sneakers on a reflective surface,shoes,dataset/images/287.jpg,Puma,Red,Small
+288,shoes_288,nike air max 2 black / blue / vol / vol,shoes,dataset/images/288.jpg,Puma,White,Small
+289,shoes_289,a pair of shoes,shoes,dataset/images/289.jpg,Adidas,Blue,Small
+290,shoes_290,nike air force high,shoes,dataset/images/290.jpg,Reebok,Gold,Small
+291,shoes_291,nike free 5 0 running shoe,shoes,dataset/images/291.jpg,Reebok,Red,Medium
+292,shoes_292,the nike air force is a gold and blue color scheme,shoes,dataset/images/292.jpg,Nike,Silver,Large
+293,shoes_293,a display of shoes,shoes,dataset/images/293.jpg,Adidas,Blue,Large
+294,shoes_294,nike react react 2 ' obsidian blue ',shoes,dataset/images/294.jpg,Nike,White,Large
+295,shoes_295,the nike dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun,shoes,dataset/images/295.jpg,Adidas,White,Small
+296,shoes_296,nike air jordan 1 mid,shoes,dataset/images/296.jpg,Adidas,Gold,Large
+297,shoes_297,a group of shoes flying through the air,shoes,dataset/images/297.jpg,Reebok,Blue,Small
+298,shoes_298,air jordan 1 retro high ogg,shoes,dataset/images/298.jpg,Puma,Silver,Small
+299,shoes_299,nike air max 2015 vol 2 vol 2 vol 3 vol 3 vol 3 vol 3 vol 3 vol 3,shoes,dataset/images/299.jpg,Puma,Black,Medium
+300,shoes_300,tennis balls and tennis shoes,shoes,dataset/images/300.jpg,Reebok,Silver,Small
+301,shoes_301,a pair of white sneakers with a black background,shoes,dataset/images/301.jpg,Puma,Red,Medium
+302,shoes_302,a pair of sneakers on a blue background,shoes,dataset/images/302.jpg,Reebok,Red,Small
+303,shoes_303,a pair of shoes hanging from a rope,shoes,dataset/images/303.jpg,Adidas,Black,Medium
+304,shoes_304,a pair of green sneakers on a pink background,shoes,dataset/images/304.jpg,Adidas,Red,Small
+305,shoes_305,a skateboarder is jumping in the air,shoes,dataset/images/305.jpg,Adidas,Blue,Medium
+306,shoes_306,a pair of shoes with the words how to ske pro,shoes,dataset/images/306.jpg,Nike,Blue,Large
+307,shoes_307,a pair of shoes,shoes,dataset/images/307.jpg,Adidas,Black,Small
+308,shoes_308,a pair of shoes with a glowing sole,shoes,dataset/images/308.jpg,Reebok,Black,Large
+309,shoes_309,a pair of sneakers with a price tag,shoes,dataset/images/309.jpg,Adidas,Blue,Large
+310,shoes_310,a pair of shoes on a white background,shoes,dataset/images/310.jpg,Puma,Gold,Large
+311,shoes_311,nike print ad campaign,shoes,dataset/images/311.jpg,Reebok,Gold,Small
+312,shoes_312,nike air jordan 1 high ' university red ',shoes,dataset/images/312.jpg,Nike,Silver,Large
+313,shoes_313,a pair of shoes,shoes,dataset/images/313.jpg,Adidas,Silver,Large
+314,shoes_314,a woman doing a split exercise,shoes,dataset/images/314.jpg,Puma,Blue,Large
+315,shoes_315,a pair of shoes with a red and orange color scheme,shoes,dataset/images/315.jpg,Reebok,Gold,Small
+316,shoes_316,the shoe is white,shoes,dataset/images/316.jpg,Puma,Gold,Large
+317,shoes_317,nike air jordan retro sneaker,shoes,dataset/images/317.jpg,Puma,Red,Small
+318,shoes_318,a display of shoes,shoes,dataset/images/318.jpg,Reebok,Black,Medium
+319,shoes_319,asics women ' s running shoes,shoes,dataset/images/319.jpg,Adidas,Silver,Medium
+320,shoes_320,a red and white poster with a pair of shoes,shoes,dataset/images/320.jpg,Puma,Gold,Medium
+321,shoes_321,a poster for a nike shoe,shoes,dataset/images/321.jpg,Puma,Blue,Medium
+322,shoes_322,nike air zoom low,shoes,dataset/images/322.jpg,Reebok,Gold,Small
+323,shoes_323,nike air max black pink,shoes,dataset/images/323.jpg,Reebok,Black,Small
+324,shoes_324,the nike air zoom is a sneak that ' s designed to be a shoe,shoes,dataset/images/324.jpg,Puma,White,Large
+325,shoes_325,a poster with a bunch of different shoes,shoes,dataset/images/325.jpg,Adidas,Silver,Large
+326,shoes_326,nike air force low white,shoes,dataset/images/326.jpg,Nike,White,Large
+327,shoes_327,a pair of shoes with the nike logo on them,shoes,dataset/images/327.jpg,Puma,Blue,Medium
+328,shoes_328,a pair of purple and blue running shoes,shoes,dataset/images/328.jpg,Adidas,Red,Large
+329,shoes_329,nike free run 2,shoes,dataset/images/329.jpg,Adidas,Red,Large
+330,shoes_330,nike dun dun low,shoes,dataset/images/330.jpg,Puma,Red,Small
+331,shoes_331,a bunch of different sneakers,shoes,dataset/images/331.jpg,Puma,Black,Small
+332,shoes_332,a poster advertising a soccer shoe,shoes,dataset/images/332.jpg,Adidas,White,Large
+333,shoes_333,a woman in a black top and pink shoes,shoes,dataset/images/333.jpg,Puma,Blue,Medium
+334,shoes_334,nike ' s new exe trail,shoes,dataset/images/334.jpg,Puma,White,Small
+335,shoes_335,nike ' s new sneak is a sneak that ' s been on the market,shoes,dataset/images/335.jpg,Puma,Silver,Large
+336,shoes_336,nike print adverts,shoes,dataset/images/336.jpg,Reebok,Silver,Large
+337,shoes_337,nike store in the mall,shoes,dataset/images/337.jpg,Puma,Gold,Medium
+338,shoes_338,a poster for a new nike shoe store,shoes,dataset/images/338.jpg,Reebok,Gold,Large
+339,shoes_339,a col of different sports shoes and shoes,shoes,dataset/images/339.jpg,Puma,Gold,Large
+340,shoes_340,nike print ad campaign,shoes,dataset/images/340.jpg,Adidas,White,Medium
+341,shoes_341,a pair of shoes with the names of different types,shoes,dataset/images/341.jpg,Puma,Gold,Large
+342,shoes_342,a pair of shoes with the number 23 on them,shoes,dataset/images/342.jpg,Reebok,Red,Small
+343,shoes_343,a poster advertising a running shoe,shoes,dataset/images/343.jpg,Puma,White,Large
+344,shoes_344,a pair of shoes,shoes,dataset/images/344.jpg,Adidas,Black,Large
+345,shoes_345,a pair of shoes on a bright orange background,shoes,dataset/images/345.jpg,Reebok,Gold,Large
+346,shoes_346,a pair of shoes,shoes,dataset/images/346.jpg,Nike,Black,Large
+347,shoes_347,nike just released the first ever shoe,shoes,dataset/images/347.jpg,Adidas,Red,Large
+348,shoes_348,the nike fast fast shoe features a detailed diagram of the shoe,shoes,dataset/images/348.jpg,Puma,Red,Large
+349,shoes_349,nike shoes sale flyer,shoes,dataset/images/349.jpg,Nike,Red,Large
+350,shoes_350,a pair of red sneakers with the words top 12 shoe brands in the world,shoes,dataset/images/350.jpg,Puma,White,Small
+351,speakers_351,creative audio products creative audio products the best audio products,speakers,dataset/images/351.jpg,Boat,Red,Large
+352,speakers_352,"the jbl - 10 is a compact, compact, and compact speaker",speakers,dataset/images/352.jpg,Sony,Silver,Large
+353,speakers_353,the two speakers are shown in black and blue,speakers,dataset/images/353.jpg,Sony,Silver,Medium
+354,speakers_354,jbl bluetooth mini bluetooth speaker,speakers,dataset/images/354.jpg,Boat,White,Large
+355,speakers_355,the best gaming speakers for pc,speakers,dataset/images/355.jpg,JBL,Black,Medium
+356,speakers_356,a variety of speakers and speakers,speakers,dataset/images/356.jpg,JBL,Red,Large
+357,speakers_357,the amazon echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo,speakers,dataset/images/357.jpg,Boat,Silver,Small
+358,speakers_358,the speaker system with bluetooth and usb,speakers,dataset/images/358.jpg,Boat,Silver,Medium
+359,speakers_359,the speakers are black and have a black finish,speakers,dataset/images/359.jpg,JBL,Black,Small
+360,speakers_360,the bluetooth speaker with built in microphone,speakers,dataset/images/360.jpg,Boat,Black,Large
+361,speakers_361,the ultimate waterproof speakers,speakers,dataset/images/361.jpg,Sony,Black,Medium
+362,speakers_362,the speaker is a speaker that can be used to communicate and communicate,speakers,dataset/images/362.jpg,Sony,Black,Large
+363,speakers_363,a wooden table,speakers,dataset/images/363.jpg,JBL,White,Large
+364,speakers_364,the jbl bluetooth speaker is shown in black,speakers,dataset/images/364.jpg,JBL,White,Small
+365,speakers_365,4 x 4 x 4 x 4 x 4 x 4 x 4 x 4 x 4 x 4 x,speakers,dataset/images/365.jpg,JBL,Black,Large
+366,speakers_366,a speaker with a microphone and a remote,speakers,dataset/images/366.jpg,JBL,White,Large
+367,speakers_367,google assistante google assistante google assistante google assistante google assistante google assistante google assistant,speakers,dataset/images/367.jpg,JBL,Red,Medium
+368,speakers_368,the amazon echo speaker with a black background,speakers,dataset/images/368.jpg,Sony,Red,Small
+369,speakers_369,two portable speakers on the beach,speakers,dataset/images/369.jpg,Boat,Gold,Medium
+370,speakers_370,the two speakers are shown in the same color,speakers,dataset/images/370.jpg,JBL,Black,Large
+371,speakers_371,a pair of speakers with remotes and a remote,speakers,dataset/images/371.jpg,Sony,Gold,Small
+372,speakers_372,the speakers are made from wood,speakers,dataset/images/372.jpg,Sony,Gold,Medium
+373,speakers_373,the 5 1 1 channel home theater system,speakers,dataset/images/373.jpg,Boat,White,Medium
+374,speakers_374,a stack of black boxes on a concrete floor,speakers,dataset/images/374.jpg,Sony,Black,Small
+375,speakers_375,a blue background with a white circle and a blue background with a white circle and a blue circle with,speakers,dataset/images/375.jpg,JBL,Silver,Large
+376,speakers_376,klip klip klip klip klip klip klip klip klip klip,speakers,dataset/images/376.jpg,Sony,Red,Medium
+377,speakers_377,the black and white air vent vent vent is shown in the center of the vent vent vent,speakers,dataset/images/377.jpg,JBL,Red,Medium
+378,speakers_378,the samsung sound bar with the speaker and speakers,speakers,dataset/images/378.jpg,JBL,Blue,Small
+379,speakers_379,the best gaming speakers for pc,speakers,dataset/images/379.jpg,JBL,Silver,Large
+380,speakers_380,"the home theater system includes a large screen, a large sound bar, and a large sound bar",speakers,dataset/images/380.jpg,Sony,Gold,Small
+381,speakers_381,the portable kara system with microphone and remote,speakers,dataset/images/381.jpg,Sony,Silver,Large
+382,speakers_382,a white and black speaker,speakers,dataset/images/382.jpg,Sony,Red,Small
+383,speakers_383,the sony xb - s2 bluetooth speaker,speakers,dataset/images/383.jpg,JBL,Silver,Medium
+384,speakers_384,a roll of tape and a roll of tape,speakers,dataset/images/384.jpg,Boat,Gold,Small
+385,speakers_385,a black speaker with a bluetooth and a greentooth,speakers,dataset/images/385.jpg,Boat,Black,Large
+386,speakers_386,a black and white photo of a cigarette,speakers,dataset/images/386.jpg,Boat,Blue,Large
+387,speakers_387,jbl bluetooth jbl bluetooth jbl bluetooth jbl bluetooth jbl bluetooth,speakers,dataset/images/387.jpg,JBL,White,Medium
+388,speakers_388,sony home theater system,speakers,dataset/images/388.jpg,JBL,Gold,Small
+389,speakers_389,a set of speakers and a speaker stand,speakers,dataset/images/389.jpg,Boat,Silver,Small
+390,speakers_390,log audio z - 5 speaker system,speakers,dataset/images/390.jpg,JBL,White,Small
+391,speakers_391,a bunch of speakers,speakers,dataset/images/391.jpg,Sony,Silver,Small
+392,speakers_392,a large set of speakers with a speaker stand,speakers,dataset/images/392.jpg,JBL,Black,Large
+393,speakers_393,a pair of speakers on a green background,speakers,dataset/images/393.jpg,Boat,White,Large
+394,speakers_394,the bluetooth speaker with a black and pink color,speakers,dataset/images/394.jpg,JBL,Black,Small
+395,speakers_395,the waterproof speaker is a great addition to any speaker,speakers,dataset/images/395.jpg,Sony,White,Small
+396,speakers_396,a black speaker with red lights,speakers,dataset/images/396.jpg,JBL,White,Large
+397,speakers_397,the speaker is a speaker that can be used for music,speakers,dataset/images/397.jpg,JBL,Black,Large
+398,speakers_398,a cell phone with a pair of headphones on top of it,speakers,dataset/images/398.jpg,Sony,Black,Large
+399,speakers_399,yamaha r - s770 5 1 channel home theater system,speakers,dataset/images/399.jpg,JBL,White,Large
+400,speakers_400,the new jbl x5 bluetooth speaker system,speakers,dataset/images/400.jpg,Sony,Black,Large
+401,phones_401,a group of different cell phones,phones,dataset/images/401.jpg,Samsung,Silver,Medium
+402,phones_402,the new ipad and ipad pro,phones,dataset/images/402.jpg,Samsung,White,Small
+403,phones_403,samsung galaxy s20 plus,phones,dataset/images/403.jpg,Apple,Red,Large
+404,phones_404,three smartphones with different colors and sizes,phones,dataset/images/404.jpg,Realme,Silver,Medium
+405,phones_405,apple iphone 11 64gb,phones,dataset/images/405.jpg,OnePlus,White,Small
+406,phones_406,the iphone 11 is shown in this image,phones,dataset/images/406.jpg,Apple,Red,Medium
+407,phones_407,the iphones are lined up in a row,phones,dataset/images/407.jpg,Apple,Blue,Large
+408,phones_408,the samsung note 5,phones,dataset/images/408.jpg,Samsung,Gold,Small
+409,phones_409,the iphone is shown in a row of different colors,phones,dataset/images/409.jpg,OnePlus,Silver,Medium
+410,phones_410,a group of cell phones,phones,dataset/images/410.jpg,Realme,White,Medium
+411,phones_411,"a computer, a laptop, a phone, and a tablet",phones,dataset/images/411.jpg,Apple,Silver,Large
+412,phones_412,a cell phone and a cell phone with a screen,phones,dataset/images/412.jpg,OnePlus,Gold,Medium
+413,phones_413,the iphone is shown in the image below,phones,dataset/images/413.jpg,OnePlus,Blue,Small
+414,phones_414,a red iphone,phones,dataset/images/414.jpg,Apple,White,Large
+415,phones_415,a robot is sitting on a table next to a cell,phones,dataset/images/415.jpg,Samsung,Black,Small
+416,phones_416,"a laptop, headphones, and other items on a table",phones,dataset/images/416.jpg,OnePlus,White,Small
+417,phones_417,"a laptop, a cell, a cell, a cell, a cell, a cell, a cell",phones,dataset/images/417.jpg,Samsung,Blue,Large
+418,phones_418,the iphone history,phones,dataset/images/418.jpg,Apple,Gold,Small
+419,phones_419,"a laptop, headphones, and other electronics",phones,dataset/images/419.jpg,OnePlus,Silver,Small
+420,phones_420,the nokia x2 smartphone,phones,dataset/images/420.jpg,Realme,White,Small
+421,phones_421,the iphone 11 is a new flagship phone with a 64mp rear camera,phones,dataset/images/421.jpg,Samsung,Black,Small
+422,phones_422,samsung galaxy s7 plus,phones,dataset/images/422.jpg,Realme,Silver,Small
+423,phones_423,a person holding a smart phone with the smart app on it,phones,dataset/images/423.jpg,Samsung,Silver,Small
+424,phones_424,iphone 11 series review,phones,dataset/images/424.jpg,OnePlus,Blue,Large
+425,phones_425,xiao ' s new smartphone is the most budget - conscious smartphone yet,phones,dataset/images/425.jpg,OnePlus,Red,Small
+426,phones_426,apple iphone 11 64gb red,phones,dataset/images/426.jpg,Realme,Silver,Small
+427,phones_427,a bunch of different cell phones,phones,dataset/images/427.jpg,Realme,Black,Small
+428,phones_428,a woman taking a picture of a plant,phones,dataset/images/428.jpg,Samsung,Silver,Small
+429,phones_429,a whiteboard with a diagram of the different stages of the cycle,phones,dataset/images/429.jpg,OnePlus,Silver,Large
+430,phones_430,the new nokia x2 smartphone,phones,dataset/images/430.jpg,Realme,Gold,Medium
+431,phones_431,the iphones are shown in a row,phones,dataset/images/431.jpg,Realme,Blue,Medium
+432,phones_432,two smartphones side by side,phones,dataset/images/432.jpg,Apple,Silver,Small
+433,phones_433,the ipad air is a great alternative for the ipad air,phones,dataset/images/433.jpg,Apple,Black,Medium
+434,phones_434,nokia evolution,phones,dataset/images/434.jpg,OnePlus,Silver,Large
+435,phones_435,teo phone price in india,phones,dataset/images/435.jpg,Apple,Black,Medium
+436,phones_436,a screenshot of a smartphone with the screen open,phones,dataset/images/436.jpg,Realme,Gold,Small
+437,phones_437,a person taking a photo of a cat,phones,dataset/images/437.jpg,Apple,White,Small
+438,phones_438,the new iphone 11,phones,dataset/images/438.jpg,Apple,Blue,Large
+439,phones_439,the new smartphone is coming in india,phones,dataset/images/439.jpg,Realme,Blue,Small
+440,phones_440,apple watch series 3,phones,dataset/images/440.jpg,Samsung,Red,Small
+441,phones_441,apple iphone 11 64gb red,phones,dataset/images/441.jpg,Realme,Silver,Large
+442,phones_442,apple iphone 11 64gb,phones,dataset/images/442.jpg,Samsung,Blue,Small
+443,phones_443,iphones are arranged in a row,phones,dataset/images/443.jpg,Realme,White,Small
+444,phones_444,apple iphone 11 64gb,phones,dataset/images/444.jpg,Realme,Black,Small
+445,phones_445,iphones in a row,phones,dataset/images/445.jpg,Samsung,Red,Medium
+446,phones_446,samsung galaxy s9 plus,phones,dataset/images/446.jpg,Samsung,Gold,Medium
+447,phones_447,the new realm smartphone is shown with the names of all the devices,phones,dataset/images/447.jpg,Samsung,Black,Large
+448,phones_448,the new iphones,phones,dataset/images/448.jpg,Samsung,Blue,Medium
+449,phones_449,a row of smartphones,phones,dataset/images/449.jpg,Realme,Red,Small
+450,phones_450,apple iphone 11 64gb red,phones,dataset/images/450.jpg,Realme,Red,Large
+451,bottles_451,thermos bottles are available in various colors,bottles,dataset/images/451.jpg,Milton,Black,Medium
+452,bottles_452,a bunch of different colored bottles on a table,bottles,dataset/images/452.jpg,Cello,Red,Large
+453,bottles_453,a group of bottles,bottles,dataset/images/453.jpg,Cello,Red,Large
+454,bottles_454,a pile of plastic bottles,bottles,dataset/images/454.jpg,Tupperware,Silver,Medium
+455,bottles_455,a set of three bottles with a pump,bottles,dataset/images/455.jpg,Tupperware,Gold,Small
+456,bottles_456,a white plastic bottle with a lotion of different types,bottles,dataset/images/456.jpg,Tupperware,Blue,Large
+457,bottles_457,a row of plastic bottles,bottles,dataset/images/457.jpg,Tupperware,White,Medium
+458,bottles_458,a group of beer bottles,bottles,dataset/images/458.jpg,Tupperware,Black,Medium
+459,bottles_459,a machine that is making ices,bottles,dataset/images/459.jpg,Milton,Red,Small
+460,bottles_460,a row of plastic bottles,bottles,dataset/images/460.jpg,Milton,Blue,Small
+461,bottles_461,a white bottle with a white cap,bottles,dataset/images/461.jpg,Tupperware,Red,Small
+462,bottles_462,a black device with a blue light on it,bottles,dataset/images/462.jpg,Cello,White,Small
+463,bottles_463,a bottle of water with a reflection on the surface,bottles,dataset/images/463.jpg,Milton,Gold,Large
+464,bottles_464,thermo stainless bottle with stainless lid,bottles,dataset/images/464.jpg,Milton,Gold,Large
+465,bottles_465,a water bottle with a metal cap,bottles,dataset/images/465.jpg,Tupperware,Red,Large
+466,bottles_466,a bottle with a straw and a straw cap,bottles,dataset/images/466.jpg,Cello,Silver,Large
+467,bottles_467,a pile of garbage and other items,bottles,dataset/images/467.jpg,Tupperware,White,Small
+468,bottles_468,honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey,bottles,dataset/images/468.jpg,Milton,Black,Medium
+469,bottles_469,a group of plastic bottles,bottles,dataset/images/469.jpg,Cello,White,Medium
+470,bottles_470,a group of plastic bottles,bottles,dataset/images/470.jpg,Milton,Gold,Large
+471,bottles_471,a set of cosmetic bottles and containers for cosmetic,bottles,dataset/images/471.jpg,Milton,Gold,Small
+472,bottles_472,a white water bottle on a green background,bottles,dataset/images/472.jpg,Milton,Silver,Medium
+473,bottles_473,a col of photos of a man and a bottle of vodka,bottles,dataset/images/473.jpg,Milton,Gold,Medium
+474,bottles_474,a stainless water bottle with a white lid,bottles,dataset/images/474.jpg,Tupperware,Gold,Medium
+475,bottles_475,a bottle of juice,bottles,dataset/images/475.jpg,Cello,Black,Medium
+476,bottles_476,a group of bottles,bottles,dataset/images/476.jpg,Tupperware,Gold,Large
+477,bottles_477,a group of white bottles with gold caps,bottles,dataset/images/477.jpg,Cello,Silver,Small
+478,bottles_478,a group of pencils with a bow on top,bottles,dataset/images/478.jpg,Tupperware,Silver,Medium
+479,bottles_479,a group of different types of sodas and soda bottles on a wooden table - stock photo,bottles,dataset/images/479.jpg,Tupperware,Black,Medium
+480,bottles_480,a bottle of perfume on a beach,bottles,dataset/images/480.jpg,Tupperware,Silver,Medium
+481,chairs_481,a white chair with a wooden frame,chairs,dataset/images/481.jpg,Ikea,Red,Medium
+482,chairs_482,a white desk with a black chair and a white desk,chairs,dataset/images/482.jpg,Nilkamal,Red,Large
+483,chairs_483,a modern living room with a large bookcase,chairs,dataset/images/483.jpg,Ikea,Blue,Large
+484,chairs_484,a black office chair with a black seat,chairs,dataset/images/484.jpg,Ikea,White,Large
+485,chairs_485,a row of office chairs,chairs,dataset/images/485.jpg,Nilkamal,Black,Large
+486,chairs_486,a red office chair with a white back and a black base,chairs,dataset/images/486.jpg,Ikea,Red,Medium
+487,chairs_487,a white dining table with four chairs,chairs,dataset/images/487.jpg,Nilkamal,Silver,Small
+488,chairs_488,a chair with a wooden frame and a beige uphol,chairs,dataset/images/488.jpg,Ikea,Blue,Large
+489,chairs_489,a pair of wooden chairs,chairs,dataset/images/489.jpg,Ikea,White,Medium
+490,chairs_490,a black office chair in an office setting,chairs,dataset/images/490.jpg,Ikea,Red,Large
+491,chairs_491,a living room with a large window and a chair,chairs,dataset/images/491.jpg,Ikea,White,Small
+492,chairs_492,the office chair with a grey seat and back,chairs,dataset/images/492.jpg,Nilkamal,White,Small
+493,chairs_493,a pair of chairs with a plant in the background,chairs,dataset/images/493.jpg,Ikea,Red,Small
+494,chairs_494,a chair with a brown upholing,chairs,dataset/images/494.jpg,Nilkamal,Gold,Large
+495,chairs_495,a bunch of chairs,chairs,dataset/images/495.jpg,Ikea,Black,Medium
+496,chairs_496,a black chair with a wooden legs and a black seat,chairs,dataset/images/496.jpg,Nilkamal,Red,Large
+497,chairs_497,a chair with a wooden seat and a white base,chairs,dataset/images/497.jpg,Ikea,Blue,Medium
+498,chairs_498,a green chair with a pillow on it,chairs,dataset/images/498.jpg,Ikea,Black,Large
+499,chairs_499,a white rug,chairs,dataset/images/499.jpg,Ikea,Blue,Large
+500,chairs_500,two chairs in a room with a plant,chairs,dataset/images/500.jpg,Ikea,Blue,Large

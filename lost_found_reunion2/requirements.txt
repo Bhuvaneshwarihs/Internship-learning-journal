@@ -1,0 +1,7 @@
+streamlit
+torch
+open_clip_torch
+chromadb
+pillow
+numpy
+pandas
